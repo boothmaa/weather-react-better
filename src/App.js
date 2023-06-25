@@ -10,7 +10,12 @@ root.render(
   <StrictMode>
     <div className="Header"></div>
     <Dumb />
+     <a href="https://github.com/boothmaa/weather-react-better"> Here is the code </a>
   </StrictMode>
+ 
+
 );
 
 export default Dumb
+
+
