@@ -8,9 +8,11 @@ const root = createRoot(rootElement);
 
 root.render(
   <StrictMode>
-    <div className="Header"></div>
+    <div className="Header">
+      <a href="https://github.com/boothmaa/weather-react-better"> Here is the code </a>
+    </div>
     <Dumb />
-     <a href="https://github.com/boothmaa/weather-react-better"> Here is the code </a>
+     
   </StrictMode>
  
 
